@@ -1,4 +1,4 @@
-                                             Capstone 2: Analyzing Transjakarta bus journeys during April 2023.
+# Capstone 2: Analyzing Transjakarta Bus Journeys During April 2023.
 
 # **Background.**
 
